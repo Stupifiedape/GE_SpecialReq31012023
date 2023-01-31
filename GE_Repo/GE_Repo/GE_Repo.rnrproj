@@ -34,6 +34,11 @@
     <Folder Include="Classes\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AxClass\Class11">
+      <SubType>Content</SubType>
+      <Name>Class11</Name>
+      <Link>Classes\Class11</Link>
+    </Content>
     <Content Include="AxClass\GitTrialRepo">
       <SubType>Content</SubType>
       <Name>GitTrialRepo</Name>
